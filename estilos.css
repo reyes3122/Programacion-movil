@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #b1b1b1;
+  text-align: center;
+  padding: 50px 20px;
+  min-height: 100vh;
+  margin: 0;
+  background: radial-gradient(ellipse at bottom center, #3b0764 0%, #1a0030 40%, #000000 100%);
+}
+h1 {
+  color: #6207ad;
+}
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 20px auto;
+}
+a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
